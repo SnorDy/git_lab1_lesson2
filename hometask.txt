@@ -1,0 +1,12 @@
+Ветки ничем не отличаются
+
+Количество коммитов в ветке demo: 7
+
+Комментарии:
+init
+heat added
+boots
+Merge branch 'boots' into release
+README added
+dots
+Merge branch 'buttons' into demo
